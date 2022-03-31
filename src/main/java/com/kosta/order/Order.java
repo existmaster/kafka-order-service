@@ -15,7 +15,7 @@ public class Order {
     private String userId;
     private String productName;
     private int amount;
-    private float totalPrice;
+    private int totalPrice;
     private String address;
 
 }

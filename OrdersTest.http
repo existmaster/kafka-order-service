@@ -5,7 +5,7 @@ Content-Type: application/json
   "userId": "HongGilDong",
   "productName": "MacBook Pro",
   "amount": 2,
-  "totalPrice": 2309278,
+  "totalPrice": 49999,
   "address": "서울시 강동구 암사동"
 }
 
